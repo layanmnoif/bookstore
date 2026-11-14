@@ -46,4 +46,4 @@ You can register a new account from the website, or use this ready test account:
 - XSS Protection: We used htmlspecialchars() function to clean text output.
 - Password Security: We used password_hash() for registration and password_verify() for login.
 ==================================================
-Live Demo: Run locally using XAMPP [http://localhost/bookstore/index.php]
+Live Demo: Run locally using XAMPP: [http://localhost/bookstore/index.php]
