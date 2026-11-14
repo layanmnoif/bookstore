@@ -46,5 +46,4 @@ You can register a new account from the website, or use this ready test account:
 - XSS Protection: We used htmlspecialchars() function to clean text output.
 - Password Security: We used password_hash() for registration and password_verify() for login.
 ==================================================
-Live Project URL:
-https://d9c34117abc3ecc8-77-31-233-46.serveousercontent.com/bookstore/products.php
+Live Demo: Run locally using XAMPP (http://localhost/bookstore/index.php)
